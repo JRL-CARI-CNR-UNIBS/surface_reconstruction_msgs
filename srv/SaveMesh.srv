@@ -1,0 +1,6 @@
+# Path of the output file. The extension selects the format: .ply (binary), .vtk, .obj
+# If empty, the node parameter 'default_mesh_file' is used.
+string filename
+---
+bool success
+string message
